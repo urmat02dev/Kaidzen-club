@@ -8,7 +8,7 @@ const Header = () => {
               <div className="container">
                   <div className="header">
                       <div className="header--logo">
-                          <img src={Logo} width={50} alt=""/>
+                          <img src={Logo} width={40} alt=""/>
                           <p>Образовательная
                               <br/>платформа
                               <br/>Кубаныча</p>

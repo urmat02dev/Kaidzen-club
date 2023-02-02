@@ -4,10 +4,12 @@ const Hero = () => {
     return (
         <>
             <div id="hero">
-
                 <div className="container">
-                    <div className="hero">
+                    <div className="hero" >
                         <h1>КАЙДЗЕН КЛУБ</h1>
+                        <p>Международное сообщество для постоянного,
+                            непрерывного обучения, совершенствования,
+                            поддержки и продвижения своих</p>
                     </div>
                 </div>
             </div>
