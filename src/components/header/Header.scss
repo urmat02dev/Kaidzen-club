@@ -1,0 +1,14 @@
+#header{
+  background: #000;
+  .header{
+    display: flex;
+    color: white;
+    &--logo{
+      width: 10px;
+      p{
+        width: 10px;
+
+      }
+    }
+  }
+}
