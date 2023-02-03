@@ -12,6 +12,12 @@ const Header = () => {
                           <p>Образовательная
                               <br/>платформа
                               <br/>Кубаныча</p>
+                          <div>
+                              <a href="#"></a>
+                              <a href="#"></a>
+                              <a href="#"></a>
+                              <a href="#"></a>
+                          </div>
                       </div>
                   </div>
               </div>
